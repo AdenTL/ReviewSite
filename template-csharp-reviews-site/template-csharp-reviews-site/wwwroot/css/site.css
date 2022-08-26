@@ -27,7 +27,7 @@ tr:nth-child(even) {
     background-color: lightgray;
 }
 #stamplogo {
-    max-height: 3rem;
+    max-height: 4rem;
 }
 tbody {
     background-color: darkgray;
